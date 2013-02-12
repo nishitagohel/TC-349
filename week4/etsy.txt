@@ -17,4 +17,5 @@ convenient and a good idea to incorporate into the website because with all the 
 the site, this feature shows visitors newly added items, which helps the sellers out. \
 	i also really like when you click on an item, there is a chart to show how much shipping\
 will cost and there is also a description of the item being sold. \
-	Overall, the site if very user friendly and aesthetically pleasing, which makes buyers/visitors want to use the site again. }
+	Overall, the site if very user friendly and aesthetically pleasing, which makes buyers/visitors\
+ want to use the site again. }
