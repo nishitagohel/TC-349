@@ -1,25 +1,60 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 900px;
+	background: #CFF;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	border-color: #939;
+}
+
 h1 {
-	color: green;
-	font-family:Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #939;
 	font-size: 36px;
 }
 
 h2 {
-	color: red;
-	font-family:Arial, Helvetica, sans-serif;
+	color: #C6F;
 	font-size: 24px;
 }
 
 h3 {
-	color: blue;
-	font-family:Arial, Helvetica, sans-serif;
+	color: #6CF;
 	font-size: 18px;
 }
 
 p {
-	font-family:Arial, Helvetica, sans-serif;
 	font-size: 14px;
+}
+
+img {
+	border: 15px solid #939;
+	padding: 10px;	
+	margin: 10px;
+}
+
+#nav {
+	list-style-type: none;
+	background-color: #FCF;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#nav li {
+	display: inline;
+}
+
+#nav a {
+	border: 10px;
+	border-left: solid;
+	padding-right: 35px;
+	padding-left: 35px;
 }

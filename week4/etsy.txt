@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Etsy Critique\
+\
+	Etsy is an online shopping website. The site is set up very logically and is very user friendly.\
+The pictures of the items being sold is very helpful, and it makes it a lot faster to shop and see what \
+you are buying. I also like how the prices are clearly listed under the picture of the item before you \
+even scroll over the image or click  on it. \
+	The toolbar on the left side of the webpage is also very helpful. It categorizes their items \
+in a logical way, which makes the site even more user friendly. The search bar at the very top \
+of the site is also extremely helpful and convenient. The "Recently sited Items" is also very \
+convenient and a good idea to incorporate into the website because with all the item being sold on \
+the site, this feature shows visitors newly added items, which helps the sellers out. \
+	i also really like when you click on an item, there is a chart to show how much shipping\
+will cost and there is also a description of the item being sold. \
+	Overall, the site if very user friendly and aesthetically pleasing, which makes buyers/visitors want to use the site again. }
