@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Live Text</title>
+<link rel='stylesheet' type='text/css' href="livetext_css.css">
+
+<script type="text/javascript" src="/jquery.js"></script>
+
+</head>
+
+<body>
+
+ <div id="w">
+    <h1>Live Textarea Count Limit</h1>
+    <h3 class="desc">Text is limited up to 120 characters</h3>
+  	
+    <p id="counter"><span>0</span> characters</p>
+  	
+    <textarea name="text" id="text" class="txt" tabindex="1"></textarea>
+  </div>
+  
+  
+function limits(obj, limit) {
+  var cnt = $("#counter > span");
+  var txt = $(obj).val(); 
+  var len = txt.length;
+    
+  // check if the current length is over the limit
+  if(len > limit){
+    $(obj).val(txt.substr(0,limit));
+    $(cnt).html(len-1);
+  } 
+  else { 
+    $(cnt).html(len);
+  }
+     
+  // check if user has less than 20 chars left
+  if(limit-len <= 20) {
+    $(cnt).addClass("warning");
+  }
+}
+
+
+$('textarea').keyup(function(){
+  limits($(this), limitnum);
+});
+</body>
+</html>
