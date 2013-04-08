@@ -1,0 +1,9 @@
+MSU Schedule Builder Mobile Site Critique
+
+Compared to a few years ago, the MSU schedule builder critique has changed a lot. Before, the 
+mobile site used to be exactly like the online site, which was not very user friendly. Now the site 
+looks a lot different than the online site and has big buttons to choose your semester and classes. I 
+really like this new update because you can clearly and easily see all the classes you're enrolled in. 
+The bad part about this is that when you want to search from classes on your phone, it goes back to 
+the online site and it is very hard to see and click on buttons because the sizing isn't how to should 
+be on a mobile device. 
